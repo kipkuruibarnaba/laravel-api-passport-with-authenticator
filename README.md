@@ -13,7 +13,9 @@ php artisan passport:install
 php artisan passport:client --personal
 
 Testing
+
 wrx2ExFdvL5eyo5fBWjZWrOdb1v0Hu6HHDzSv6Fm
+
 php artisan make:migration create_products_table
 
 
